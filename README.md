@@ -1,27 +1,8 @@
-# AngularBasicsExercises
+# Angular Basics
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+I learned a lot about binding data, both one way, and two way databinding, and it's usefulness in dynamically updating and changing the DOM on our application. 
+- Using ngFor to loop through an array and create additional elements for the items in those arrays.
+- Using ngClass and ngStyle to change how the elements in the DOM look based on certain criteria.
+- Using ngModel to dynamically update the DOM as input is entered or events are triggered.
+- using ngIf to dynamically hide or display elements on the DOM if certain values are returned true or false.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
